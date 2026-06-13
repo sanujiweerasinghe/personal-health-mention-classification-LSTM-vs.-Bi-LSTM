@@ -103,7 +103,3 @@ Social media posts often contain mentions of personal health experiences (sympto
    ```
 3. Provide the training and test CSV files (`phm_train.csv`, `phm_test.csv`) with `tweet` and `label` columns.
 4. Run all cells sequentially to reproduce preprocessing, training, evaluation, and visualisations.
-
-## Author
-
-Sanuji Weerasinghe
