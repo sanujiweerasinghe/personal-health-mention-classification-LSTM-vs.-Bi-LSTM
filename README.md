@@ -2,7 +2,6 @@
 
 A deep learning project that classifies tweets as **Personal Health Mentions (PHM)** or **non-PHM**, comparing the performance of an **LSTM** and a **Bidirectional LSTM (Bi-LSTM)** model.
 
-> Built for CSC4093 / DSC4213 — Programming Assignment 01
 
 ## Overview
 
